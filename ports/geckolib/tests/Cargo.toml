@@ -28,4 +28,4 @@ style_traits = {path = "../../../components/style_traits"}
 style = {path = "../../../components/style", features = ["gecko"]}
 
 [build-dependencies]
-regex = "0.2"
+regex = "1.5"
